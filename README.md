@@ -21,7 +21,7 @@ Este app foi criado com base no curso de flutter para consumo de API's
 
 ## Screenshots
 
-<img src="https://github.com/DuhAlonso/fluttertube/blob/master/screenshot/Screen1.png" width="250"> <img src="https://github.com/DuhAlonso/fluttertube/blob/master/screenshot/Screen2.png" width="250"> <img src="https://github.com/DuhAlonso/fluttertube/blob/master/screenshot/Screen3.png" width="250"> 
+<img src="https://github.com/DuhAlonso/app_primeiros_passos/blob/master/screenshot/default.png" width="250"> <img src="https://github.com/DuhAlonso/fluttertube/blob/master/screenshot/Screen2.png" width="250"> <img src="https://github.com/DuhAlonso/fluttertube/blob/master/screenshot/Screen3.png" width="250">
 <img src="https://github.com/DuhAlonso/fluttertube/blob/master/screenshot/Screen4.png" width="250"> <img src="https://github.com/DuhAlonso/fluttertube/blob/master/screenshot/Screen5.png" width="250"> <img src="https://github.com/DuhAlonso/fluttertube/blob/master/screenshot/Screen6.png" width="250">
 
 ## Observação
